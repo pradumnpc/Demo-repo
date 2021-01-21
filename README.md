@@ -1,2 +1,4 @@
-# Demo-repo
-Demo repo for learning Github 
+# Demo
+Some discription 
+this is the practice github repo to understand basic concept of github. 
+
